@@ -1,6 +1,6 @@
-# Gitpod workspace for [Zoose](https://github.com/ianhellstrom/zoose)
+# Gitpod workspace for [Zoose](https://github.com/ianreppel/zoose)
 
-Do you want to run Zoose or [Zoose Quantum](https://ianhellstrom.org/zoose-2.0/#zoose-quantum) without installing _anything_, not even Docker?
+Do you want to run Zoose or [Zoose Quantum](https://ianreppel.org/zoose-2.0/#zoose-quantum) without installing _anything_, not even Docker?
 
 1. Create an account on [Gitpod](https://gitpod.io).
 1. Click "Use this template" at the top right to create a copy of this repository in your GitHub account.
